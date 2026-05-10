@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4285F4&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Prem+Kumar+Mokara!;AI+Engineer+Intern+@FWAI;Google+Student+Ambassador" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4285F4&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Prem+Kumar+Mokara!;AI+Engineer+Intern+@Chauwk;Google+Student+Ambassador" alt="Typing Animation" />
 </div>
 
 ## About Me
@@ -55,7 +55,7 @@
 ---
 
 ## 🎯 Current Focus
-* 🔭 I’m currently an **AI Engineer Intern at FWAI**, building LLM automation pipelines.
+* 🔭 I’m currently an **AI Engineer Intern at Chauwk**, building Agents.
 * 👯 Leading the **Gemini AI Club** and mentoring peers on Google Cloud certifications.
 * 💬 Ask me about **Generative AI, Workflow Automation, or Python**.
 * 📫 Reach me at: **premkumarmokara@gmail.com**
