@@ -4,7 +4,7 @@
 
 ## About Me
 
-👋 Hi! I'm **Prem Kumar Mokara**, a 3rd-year Computer Science student at **Vishnu Institute of Technology**.
+👋 Hi! I'm **Prem Kumar Mokara**, a final year Computer Science student at **Vishnu Institute of Technology**.
 
 🚀 **AI Engineer Intern** continuously developing my skills in **Generative AI, LLMs, and automation pipelines**. I am driven by the evolving landscape of AI and am constantly exploring new architectures to build smarter solutions.
 
@@ -48,14 +48,14 @@
 ---
 
 ## 🎓 Education & Certifications
-* **B.Tech in Computer Science** | Vishnu Institute of Technology (9.0 CGPA)
+* **B.Tech in Computer Science** | Vishnu Institute of Technology
 * **Diploma in Computer Engineering** | A.A.N.M & V.V.R.S.R Polytechnic (95.9%)
 * **Certifications:** Gen AI Academy (Google Cloud), Oracle Data Science Professional, AWS Cloud Architect.
 
 ---
 
 ## 🎯 Current Focus
-* 🔭 I’m currently an **AI Engineer Intern at Chauwk**, building Agents.
+* 🔭 I’m currently an **AI Engineer Intern at Chauwk**, building Voice Agents.
 * 👯 Leading the **Gemini AI Club** and mentoring peers on Google Cloud certifications.
 * 💬 Ask me about **Generative AI, Workflow Automation, or Python**.
 * 📫 Reach me at: **premkumarmokara@gmail.com**
